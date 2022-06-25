@@ -22,7 +22,7 @@ for (let number = 1; number <= 10; number++){
 console.log("2. Criar um loop que conte de 10 até 1 usando WHILE")
 console.log("Contagem regressiva:")
 let number = 10;
-while (number >=0){
+while (number >=1){
     console.log(number);
     number--;
 }
